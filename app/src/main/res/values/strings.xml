@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project_ContentProvider</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="canciones">cancion/es</string>
+    <string name="albumnes">album/nes</string>
+    <string name="ukURI">"ERROR: URI desconocida : " </string>
+    <string name="pestana1">Canciones</string>
+    <string name="pestana2">Albumnes</string>
+    <string name="pestana3">Interpretes</string>
+
+</resources>
